@@ -9,7 +9,7 @@
             <div class="col-md-12">
                 <div class="panel rounded-0">
                     <div class="panel-heading rounded-0">
-                        <h2 class="panel-title text-center">Selamat datang di aplikasi warehouse RPM</h2>
+                        <h2 class="panel-title text-center">Selamat Datang, Di Warehouse Management System Pt. Rajawali Perkasa Metalindo.</h2>
                     </div>
                     <div class="panel-body container-fluid">
                         <div class="blockquote gray">

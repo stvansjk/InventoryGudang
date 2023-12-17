@@ -15,18 +15,4 @@ Developed by: Kelompok 1
               - Tedi Hanafiah
               - Rafly Putratama
               - Ela Priyani
-Published @: [https://codeastro.com/warehouse-management-system-in-php-codeigniter-with-source-code/]
 ****************************************************************
-
-
-
-****************************************************************
-Customized By: Kelompok 1
-              - Stevanus Jovanda Kristoma
-              - Tedi Hanafiah
-              - Rafly Putratama
-              - Ela Priyani
-Published @: [https://sourcecodester.com/php-codeigniter-warehouse-management-system-free-source-code/]
-****************************************************************
-
-
