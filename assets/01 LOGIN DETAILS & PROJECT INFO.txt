@@ -1,8 +1,6 @@
-**Log on to codeastro.com for more projects!**
+**Database Name : wl_db**
 
-**Database Name: wmsci**
-
-**Developed by Ali Abdul Wahid**
+**Developed by Kelompok 1**
 
 **Recommended PHP Version 5.6**
 
